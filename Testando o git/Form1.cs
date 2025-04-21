@@ -6,5 +6,10 @@ namespace Testando_o_git
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
